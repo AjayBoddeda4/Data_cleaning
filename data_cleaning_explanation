@@ -1,0 +1,11 @@
+
+1. In this the cleaned data is given to the data analysts so for that reson i have created the external table so the data analysts can access it
+
+2.there are 2 cases one customers wants the updated data which delays 24 hrs and one customers wants the data to access quickly it fine for them the data can be older but the 1st customer wants the updated datait fine even if the data load take time 
+
+3.there is some bad data in the table have to clear it
+
+4.segregate this bad data from the actual data 
+
+5.perform the loan score logic
+
